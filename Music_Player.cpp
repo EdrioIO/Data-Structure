@@ -10,8 +10,8 @@ struct music{
 	struct music *next;
 }*head,*tail,*curr;
 
-char musics[11][100]={	  "IDGAF - Dua Lipa",
-					      "FRIENDS - Marshmello, Anne-Marie",
+char musics[11][100]={	 			  "IDGAF - Dua Lipa",
+						  "FRIENDS - Marshmello, Anne-Marie",
 						  "The Middle - Zedd, Maren Morris, Grey",
 						  "Best Part - H.E.R., Daniel Caesar",
 						  "All The Stars (with SZA) - Kendrick Lamar, LZA",
